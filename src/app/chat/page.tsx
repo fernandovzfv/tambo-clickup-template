@@ -11,7 +11,7 @@ export default function Home() {
   const mcpServers = [
     {
       // MCP server configuration
-      url: "https://server.smithery.ai/@taazkareem/clickup-mcp-server/mcp?api_key=d064ab4e-ca8e-4694-bdf8-09e130927822&profile=subtle-skink-ZnYkX4",
+      url: "my-mcp-server.com", // required
       // Optional custom headers, eg.
       // { "Authorization": `Bearer ${token}` } or { "X-Api-Key": "1234567890" }
       customHeaders: {},
