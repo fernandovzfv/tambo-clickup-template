@@ -11,7 +11,7 @@ export default function Home() {
   const mcpServers = [
     {
       // MCP server configuration
-      url: "my-mcp-server.com", // required
+      url: process.env.NEXT_PUBLIC_MCP_SERVER_URL!, // required
       // Optional custom headers, eg.
       // { "Authorization": `Bearer ${token}` } or { "X-Api-Key": "1234567890" }
       customHeaders: {},
