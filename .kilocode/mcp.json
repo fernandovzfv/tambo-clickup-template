@@ -1,0 +1,8 @@
+{
+  "mcpServers":{
+    "tambo": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.tambo.co/mcp"]
+    }
+  }
+}
