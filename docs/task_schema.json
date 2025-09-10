@@ -1,0 +1,148 @@
+{
+      "id": "86dxhtcxm",
+      "custom_id": null,
+      "custom_item_id": 0,
+      "name": "AAP-SEN-03-ME-ETE-007_0",
+      "text_content": "Evaluación técnica de ofertas: de tanque de almacenamiento (3 ofertas)",
+      "description": "Evaluación técnica de ofertas: de tanque de almacenamiento (3 ofertas)",
+      "status": {
+        "status": "not started",
+        "id": "sc901705232741_HkTm2KTp",
+        "color": "#D33D44",
+        "type": "open",
+        "orderindex": 0
+      },
+      "orderindex": "39841991.00000000000000000000000000000000",
+      "date_created": "1755615028929",
+      "date_updated": "1755615028929",
+      "date_closed": null,
+      "date_done": null,
+      "archived": false,
+      "creator": {
+        "id": 43040486,
+        "username": "Fernando Vazquez",
+        "color": "#006063",
+        "email": "fernando.vazquez@telmexmail.com",
+        "profilePicture": null
+      },
+      "assignees": [],
+      "group_assignees": [],
+      "watchers": [
+        {
+          "id": 43040486,
+          "username": "Fernando Vazquez",
+          "color": "#006063",
+          "initials": "FV",
+          "email": "fernando.vazquez@telmexmail.com",
+          "profilePicture": null
+        }
+      ],
+      "checklists": [],
+      "tags": [
+        {
+          "name": "generated-task",
+          "tag_fg": "#e040fb",
+          "tag_bg": "#e040fb",
+          "creator": 43040486
+        },
+        {
+          "name": "imported",
+          "tag_fg": "#ee5e99",
+          "tag_bg": "#ee5e99",
+          "creator": 43040486
+        }
+      ],
+      "parent": null,
+      "top_level_parent": null,
+      "priority": null,
+      "due_date": "1759399200000",
+      "start_date": null,
+      "points": null,
+      "time_estimate": null,
+      "custom_fields": [
+        {
+          "id": "f964ed2f-26a2-4587-abd3-eb57fe262ae6",
+          "name": "Activity End Date",
+          "type": "date",
+          "type_config": {},
+          "date_created": "1755614564425",
+          "hide_from_guests": false,
+          "required": false
+        },
+        {
+          "id": "f9e4dbc2-f34e-4690-a149-6dd5e5c4b48e",
+          "name": "Activity Outcome",
+          "type": "text",
+          "type_config": {},
+          "date_created": "1755614564441",
+          "hide_from_guests": false,
+          "required": false
+        },
+        {
+          "id": "2416f182-0ee9-4e8b-a638-d5f130b8b9b9",
+          "name": "Activity Start Date",
+          "type": "date",
+          "type_config": {},
+          "date_created": "1755614564427",
+          "hide_from_guests": false,
+          "required": false
+        },
+        {
+          "id": "266bcb3e-5e8a-458f-9074-f19d825e64da",
+          "name": "Responsible Team",
+          "type": "users",
+          "type_config": {
+            "single_user": false,
+            "include_guests": true
+          },
+          "date_created": "1755614564411",
+          "hide_from_guests": false,
+          "required": false
+        }
+      ],
+      "dependencies": [],
+      "linked_tasks": [],
+      "locations": [],
+      "team_id": "30973784",
+      "url": "https://app.clickup.com/t/86dxhtcxm",
+      "sharing": {
+        "public": false,
+        "public_share_expires_on": null,
+        "public_fields": [
+          "assignees",
+          "priority",
+          "due_date",
+          "content",
+          "comments",
+          "attachments",
+          "customFields",
+          "subtasks",
+          "tags",
+          "checklists",
+          "coverimage"
+        ],
+        "token": null,
+        "seo_optimized": false
+      },
+      "permission_level": "create",
+      "list": {
+        "id": "901705232741",
+        "name": "ARCO I",
+        "access": true
+      },
+      "project": {
+        "id": "90172633229",
+        "name": "hidden",
+        "hidden": true,
+        "access": true
+      },
+      "folder": {
+        "id": "90172633229",
+        "name": "hidden",
+        "hidden": true,
+        "access": true
+      },
+      "space": {
+        "id": "90171160742"
+      }
+    }

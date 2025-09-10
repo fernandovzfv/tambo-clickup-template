@@ -16,6 +16,7 @@ import { TamboProvider } from "@tambo-ai/react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useState } from "react";
 import { SettingsPanel } from "./components/settings-panel";
+import { TaskListDemo } from "./task-list-demo";
 
 export default function InteractablesPage() {
   const [isChatOpen, setIsChatOpen] = useState(true);
@@ -83,6 +84,9 @@ export default function InteractablesPage() {
         <div className="flex-1 overflow-auto">
           <div className="p-8">
             <SettingsPanel />
+            <div className="mt-8 border-t border-gray-200 pt-8">
+              <TaskListDemo />
+            </div>
           </div>
         </div>
       </div>

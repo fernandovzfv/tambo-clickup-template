@@ -10,6 +10,7 @@
 
 import { Graph, graphSchema } from "@/components/tambo/graph";
 import { DataCard, dataCardSchema } from "@/components/ui/card-data";
+import { TaskList, taskListSchema } from "@/components/tambo/task-list";
 import {
   getCountryPopulations,
   getGlobalPopulationTrend,
@@ -113,6 +114,13 @@ export const components: TamboComponent[] = [
       "A component that displays options as clickable cards with links and summaries with the ability to select multiple items.",
     component: DataCard,
     propsSchema: dataCardSchema,
+  },
+  {
+    name: "TaskList",
+    description:
+      "A component that displays a list of ClickUp tasks in a table format. Shows task name, description, due date, and status.",
+    component: TaskList,
+    propsSchema: taskListSchema,
   },
   // Add more components here
 ];
